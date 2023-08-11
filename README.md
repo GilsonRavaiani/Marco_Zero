@@ -14,9 +14,17 @@ Um breve resumo sobre semântica:
 
 Semântica no HTML5 é o uso das tags HTML5 que descrevem claramente o significado e a estrutura do conteúdo de uma página web. Essas tags ajudam a organizar o código, facilitar a manutenção e melhorar a acessibilidade e o SEO. Alguns exemplos de tags semânticas do HTML5 são:
 
-<!-- <header>: representa o cabeçalho de um documento ou seção.
+<header>: representa o cabeçalho de um documento ou seção.
 <nav>: representa um agrupamento de links de navegação.
 <section>: representa uma seção dentro de um documento.
 <article>: representa um conteúdo independente, como um artigo de blog.
 <aside>: representa um conteúdo secundário ou complementar ao principal.
-<footer>: representa o rodapé de um documento ou seção. -->
+<footer>: representa o rodapé de um documento ou seção.
+
+Um pouco sobre o que é "Inline":
+
+Inline no HTML5 significa que o elemento pode ser exibido dentro de outros elementos, 
+como blocos ou linhas de texto. Eles não começam em uma nova linha e ocupam apenas a largura do seu conteúdo.
+Alguns elementos inline são: <a>, <abbr>, <b>, <code>, <em>, <img>, <span> e <strong>1.
+Um elemento inline não pode conter um elemento de bloco1. 
+Você pode usar o atributo style para alterar a aparência dos elementos inline.
