@@ -9,3 +9,15 @@ A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pont
  Abuse de sua criatividade para a criação da página! 
 
  Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilhe o link desse projeto no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+Um breve resumo sobre semântica:
+
+Semântica no HTML5 é o uso das tags HTML5 que descrevem claramente o significado e a estrutura do conteúdo de uma página web. Essas tags ajudam a organizar o código, facilitar a manutenção e melhorar a acessibilidade e o SEO. Alguns exemplos de tags semânticas do HTML5 são:
+
+<header>: representa o cabeçalho de um documento ou seção.
+<nav>: representa um agrupamento de links de navegação.
+<section>: representa uma seção dentro de um documento.
+<article>: representa um conteúdo independente, como um artigo de blog.
+<aside>: representa um conteúdo secundário ou complementar ao principal.
+<footer>: representa o rodapé de um documento ou seção.
+
